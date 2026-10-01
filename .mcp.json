@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lyba": {
+      "type": "http",
+      "url": "https://lyba.io/mcp"
+    }
+  }
+}

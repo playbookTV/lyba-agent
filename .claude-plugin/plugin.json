@@ -1,0 +1,14 @@
+{
+  "name": "lyba",
+  "displayName": "Lyba",
+  "version": "1.0.0",
+  "description": "Work through client feedback from Lyba reviews in your code: find the session for your branch, fix each pinned comment with its page, breakpoint, element and commit context, then reply and resolve. Includes the Lyba MCP server and skills to set Lyba up in React apps.",
+  "author": {
+    "name": "Ovalay Studios",
+    "url": "https://lyba.io"
+  },
+  "homepage": "https://lyba.io/docs/ai-assistants",
+  "repository": "https://github.com/playbookTV/lyba-agent",
+  "license": "MIT",
+  "keywords": ["client feedback", "design review", "preview deployments", "approvals", "mcp"]
+}

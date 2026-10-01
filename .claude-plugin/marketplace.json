@@ -1,0 +1,15 @@
+{
+  "name": "lyba-agent",
+  "description": "Lyba for Claude Code: client feedback from Lyba reviews, in your editor.",
+  "owner": {
+    "name": "Ovalay Studios",
+    "url": "https://lyba.io"
+  },
+  "plugins": [
+    {
+      "name": "lyba",
+      "source": "./",
+      "description": "Work through client feedback from Lyba reviews in your code, and set Lyba up in React apps."
+    }
+  ]
+}
